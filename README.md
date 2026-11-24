@@ -27,7 +27,3 @@ Projekt obuhvaća dvije verzije pametnog ugovora. Druga, naprednija verzija uklj
 ## Testiranje
 
 Pametni ugovor testiran je u Remix IDE okruženju korištenjem virtualnih Ethereum računa. Testirane su prijave sudionika, provjere uvjeta, pokretanje izvlačenja, raspodjela sredstava i resetiranje igre.
-
-## Napomena
-
-Projekt je izrađen u akademske i edukativne svrhe. Mehanizam odabira pobjednika služi kao demonstracija funkcionalnosti te nije namijenjen korištenju u stvarnim financijskim lutrijama.
